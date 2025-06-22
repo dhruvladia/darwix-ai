@@ -27,7 +27,7 @@ This Django web application demonstrates two AI-powered features:
 
 1. **Clone the repository**
    ```bash
-   git clone [<your-repo-url>](https://github.com/dhruvladia/darwix-ai)
+   git clone https://github.com/dhruvladia/darwix-ai
    cd darwix-ai
    ```
 
