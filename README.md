@@ -15,6 +15,7 @@ This Django web application demonstrates two AI-powered features:
 - Input blog post content
 - Receive 3 AI-generated title suggestions
 - Output is a JSON object with a `titles` array
+- Please find the sample implementation in a Django view showing how the model is integrated in: ai_features_app/views.py
 
 ## Setup Instructions
 
