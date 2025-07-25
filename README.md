@@ -1,6 +1,4 @@
-# Darwix AI Assessment - Django Web Application
-
-This Django web application demonstrates two AI-powered features:
+# This Django web application demonstrates two AI-powered features:
 1. **Multilingual Audio Transcription with Diarization** — Using Sarvam AI's API (ASR)
 2. **AI Title Suggestions** — Using OpenRouter API (LLM integration)
 
